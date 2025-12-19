@@ -1,0 +1,17 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+
+# ===== Virtual Environment =====
+venv/
+.env/
+
+# ===== Streamlit =====
+.streamlit/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log

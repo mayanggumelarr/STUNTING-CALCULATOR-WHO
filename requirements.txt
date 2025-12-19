@@ -1,0 +1,4 @@
+pandas==2.3.3
+numpy==2.3.5
+streamlit==1.52.2
+google-genai==1.56.0
